@@ -14,7 +14,7 @@
 #define FTDefaultTintColor          [UIColor colorWithRed:80/255.f green:80/255.f blue:80/255.f alpha:1.f]
 #define FTDefaultTextColor          [UIColor whiteColor]
 #define FTDefaultMenuFont           [UIFont systemFontOfSize:14]
-#define FTDefaultMenuWidth          120.0
+#define FTDefaultMenuWidth          180.0
 #define FTDefaultMenuIconWidth      20.0
 #define FTDefaultMenuRowHeight      40.0
 #define FTDefaultMenuArrowHeight    10.0
